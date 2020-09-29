@@ -1,0 +1,11 @@
+{
+  "name": "shoppiingcart",
+  "version": "1.0.0",
+  "description": "Building a console shopping cart application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Walter",
+  "license": "ISC"
+}
